@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+python-dotenv
+alembic
+langchain
+langchain-openai
+langchain-ollama
+langgraph
